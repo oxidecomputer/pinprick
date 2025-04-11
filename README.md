@@ -2,8 +2,8 @@
 
 This is a trivial wrapper around the `miniz_oxide` library that
 compresses data to stdout using the DEFLATE algorithm.  The
-output of this program is suitable for inflating in nanobl-rs
-or phbl.
+output of this program is suitable for inflating in `bldb`,
+`nanobl-rs` or `phbl`.
 
 ## Usage
 
